@@ -1,0 +1,10 @@
+{
+  "require": {
+    "ext-imagick": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PsdParse\\": "src/"
+    }
+  }
+}
